@@ -1,3 +1,4 @@
+#the bill splitting py
 import random
 
 seedtest = input("enter a numer")
